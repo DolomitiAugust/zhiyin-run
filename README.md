@@ -36,7 +36,7 @@ npm run preview
 
 ## Render 部署
 
-创建 **Static Site**，在 Source 中选择 **Git Provider** 并连接 `gofish040821/zhiyin-run` 的 `main` 分支。不要选择 **Public Git Repository URL**，该接入方式不支持自动部署。
+创建 **Static Site**，在 Source 中选择 **Git Provider** 并连接 `DolomitiAugust/zhiyin-run` 的 `main` 分支。不要选择 **Public Git Repository URL**，该接入方式不支持自动部署。
 
 | 设置 | 值 |
 | --- | --- |
